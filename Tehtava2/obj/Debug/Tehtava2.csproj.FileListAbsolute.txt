@@ -1,0 +1,6 @@
+C:\Users\vilbort\source\repos\recursion\Tehtava2\bin\Debug\Tehtava2.exe.config
+C:\Users\vilbort\source\repos\recursion\Tehtava2\bin\Debug\Tehtava2.exe
+C:\Users\vilbort\source\repos\recursion\Tehtava2\bin\Debug\Tehtava2.pdb
+C:\Users\vilbort\source\repos\recursion\Tehtava2\obj\Debug\Tehtava2.csproj.CoreCompileInputs.cache
+C:\Users\vilbort\source\repos\recursion\Tehtava2\obj\Debug\Tehtava2.exe
+C:\Users\vilbort\source\repos\recursion\Tehtava2\obj\Debug\Tehtava2.pdb
